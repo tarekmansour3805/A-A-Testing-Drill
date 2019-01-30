@@ -1,0 +1,16 @@
+5. To prevent cheating, a teacher writes three versions of a test. She stacks the three versions together, first all copies of Version A, 
+then all copies of Version B, then all copies of Version C. As students arrive for the exam, each student takes a test. When grading 
+the test, the teacher finds that students who took Version B scored higher than students who took either Version A or Version C. She concludes from this that Version B is easier, and discards it.
+
+
+the problem:
+how to pile up papers?
+
+Potential Solution:
+Creating three different copies of the exams will decrease the amount of cheating on exams, but testing wheather the success rate of the exam increases when giving a logical ordered 
+exam to the students. meaning instead of puting pills on top of each other, have the exams sorted out in a logical order 1,2,3,1,2,3,1,2,3.
+
+
+method of testing:
+create two scenarios, where one the exam papers are pilled up, and the other where there's a logical order to them
+check the answers of all students, if the rates have decreased from scenario one to scenario two then this is the solution to decrease the amount of cheating on exams.
